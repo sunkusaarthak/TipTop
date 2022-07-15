@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Andriod/Kotlin/TipTop/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Andriod/Kotlin/TipTop/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Andriod/Kotlin/TipTop/app/src/main/res/drawable/receipt.xml" value="0.1" />
+        <entry key="..\:/Andriod/Kotlin/TipTop/app/src/main/res/drawable/receipt_long-48px (1).xml" value="0.1195" />
+        <entry key="..\:/Andriod/Kotlin/TipTop/app/src/main/res/drawable/receipt_long-48px.xml" value="0.1195" />
+        <entry key="..\:/Andriod/Kotlin/TipTop/app/src/main/res/drawable/receipt_long.xml" value="0.1195" />
+        <entry key="..\:/Andriod/Kotlin/TipTop/app/src/main/res/drawable/receipt_long_fill.xml" value="0.1195" />
+        <entry key="..\:/Andriod/Kotlin/TipTop/app/src/main/res/drawable/tips_and_updates-48px.xml" value="0.1" />
+        <entry key="..\:/Andriod/Kotlin/TipTop/app/src/main/res/drawable/tips_and_updates.xml" value="0.1" />
+        <entry key="..\:/Andriod/Kotlin/TipTop/app/src/main/res/font/montserrat.xml" value="0.2212962962962963" />
+        <entry key="..\:/Andriod/Kotlin/TipTop/app/src/main/res/font/montserrat_black.xml" value="0.2212962962962963" />
+        <entry key="..\:/Andriod/Kotlin/TipTop/app/src/main/res/font/poppins_black.xml" value="0.10677083333333333" />
+        <entry key="..\:/Andriod/Kotlin/TipTop/app/src/main/res/font/poppins_bold.xml" value="0.10677083333333333" />
+        <entry key="..\:/Andriod/Kotlin/TipTop/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
+        <entry key="..\:/Andriod/Kotlin/TipTop/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

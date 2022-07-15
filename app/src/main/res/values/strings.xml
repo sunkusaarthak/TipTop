@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tip Top</string>
+    <string name="tip_amount">Tip Amount : %s</string>
+    <string name="errorText">Please Enter Amount</string>
+</resources>
